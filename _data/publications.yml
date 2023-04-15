@@ -15,5 +15,5 @@
 # MLRC 2021
 - publication: "[Re] Exacerbating Algorithmic Bias through Fairness Attacks"
   venue: Published in the <a target='blank' href='https://rescience.github.io/read/#issue-2-ml-reproducibility-challenge-2021'>ReScience Journal</a>, presented as a poster at <a target='blank' href='https://neurips.cc/virtual/2022/poster/56090'>NeurIPS 2022</a>.
-  url: "https://arxiv.org/abs/2304.06391"
-  description: Proposed an interpretation method for the Vision Transformer, which learns to mask out the subset of the input with the least impact on the output distribution, in order to analyze its decision-making process.
+  url: "https://zenodo.org/record/6574681"
+  description: Reproducibility study of a paper on a collection of adversarial attacks that degrade a model’s performance with regard to fairness metrics.
