@@ -1,10 +1,22 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+# ACM-W Winter School
+- award: Winter School Graduate on Fairness in AI
+  organization: ACM-W Greece
+  year: 2021
+  summary: Participated in a collection of engaging activities, aiming to (i) understand the fairness issues in existing AI models and datasets, and (ii) propose ways to address these problems.
+
+- award: Seeds For The Future Graduate
+  organization: Huawei
+  year: 2020
+  summary: Selected for the Greek delegation for the Seeds For the Future program, during which we attended lectures and got awarded a certification on AI, 5G, IoT, and Cloud Computing.
+
+- award: Bronze Medal at Robotic Football
+  organization: World Robot Olympiad Hellas
+  year: 2018
+  summary: Worked with a small team to design a robot to play football, using LEGO MINDSTORMS EV3, and develop a custom Java framework to handle the robot's state and actions.
+
+- award: Best Microsoft Azure Hacks
+  organization: Major League Hacking
+  year: 2018
+  summary: Created a prototype website that used the municipality's open data to provide an interface for tourists to navigate through archaeological monuments, both on foot and by car.
