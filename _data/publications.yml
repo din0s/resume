@@ -3,13 +3,13 @@
 # ambig-lfqa
 - publication: Model Analysis & Evaluation for Ambiguous QA
   venue: Published in the <a target='blank' href='https://2023.aclweb.org/'>Findings of ACL 2023</a>.
-  url: "https://arxiv.org/abs/2305.12483"
+  url: "https://aclanthology.org/2023.findings-acl.279.pdf"
   description: Investigated the modeling aspects that influence the answer quality of retrieval-augmented models in long-from ambiguous QA, along with the alignment of common evaluation metrics with human judgment.
 
 # Vision DiffMask
 - publication: "Vision DiffMask: Faithful Interpretation of Vision Transformers with Differentiable Patch Masking"
   venue: Published in the <a target='blank' href='https://xai4cv.github.io/workshop_cvpr23'>XAI4CV workshop</a> at <a target='blank' href='https://cvpr2023.thecvf.com/'>CVPR 2023</a>.
-  url: "https://arxiv.org/abs/2304.06391"
+  url: "https://openaccess.thecvf.com/content/CVPR2023W/XAI4CV/papers/Nalmpantis_Vision_DiffMask_Faithful_Interpretation_of_Vision_Transformers_With_Differentiable_Patch_CVPRW_2023_paper.pdf"
   description: Proposed an interpretation method for the Vision Transformer, which learns to mask out the subset of the input with the least impact on the output distribution, in order to analyze its decision-making process.
 
 # MLRC 2021
