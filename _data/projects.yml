@@ -1,10 +1,5 @@
 # Projects
 
-# bert-infoshare
-- project: Probing LLMs for Joint Encoding of Linguistic Properties
-  url: "https://github.com/thesofakillers/bert-infoshare"
-  description: Studied the information-sharing mechanisms in BERT-based models, demonstrating the presence of joint encoding across languages, linguistic entities, and tasks.
-
 # # deeBot
 # - project: deeBot
 #   role: Kotlin Development, SQL Database, Linux Server

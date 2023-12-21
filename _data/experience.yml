@@ -1,6 +1,12 @@
 # Jobs
 
-# Zeta Alpha
+# Zeta Alpha REng
+- company: Zeta Alpha
+  position: Research Engineer
+  duration: Sept, 2023 &mdash; Current
+  summary: 'Collaborating closely with enterprise clients to develop custom embedding models tailored to their proprietary data. My expertise centers on seamlessly incorporating these models into question-answering and conversational systems, boosting efficacy with domain-specific fine-tuning on the retrieval part.'
+
+# Zeta Alpha Internship
 - company: Zeta Alpha
   position: Research Intern
   duration: Nov, 2022 &mdash; July, 2023

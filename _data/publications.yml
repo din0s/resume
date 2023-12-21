@@ -1,5 +1,11 @@
 # Publications
 
+# bert-infoshare
+- publication: Probing LLMs for Joint Encoding of Linguistic Properties
+  venue: Published in the <a target='blank' href='https://2023.emnlp.org/'>Findings of EMNLP 2023</a>.
+  url: "https://aclanthology.org/2023.findings-emnlp.476/"
+  description: Studied the information-sharing mechanisms in BERT-based models, demonstrating the presence of joint encoding across languages, linguistic entities, and tasks.
+
 # ambig-lfqa
 - publication: Model Analysis & Evaluation for Ambiguous QA
   venue: Published in the <a target='blank' href='https://2023.aclweb.org/'>Findings of ACL 2023</a>.
