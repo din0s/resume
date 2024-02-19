@@ -1,5 +1,10 @@
 # Publications
 
+# inranker
+- publication: "InRanker: Distilled Rankers for Zero-shot Information Retrieval"
+  url: "https://arxiv.org/abs/2401.06910"
+  description: Applied a two-step knowledge distillation technique for cross-encoders using soft labels, achieving comparable performance between models of different sizes despite having an order of magnitude fewer parameters.
+
 # bert-infoshare
 - publication: Probing LLMs for Joint Encoding of Linguistic Properties
   venue: Published in the <a target='blank' href='https://2023.emnlp.org/'>Findings of EMNLP 2023</a>.
